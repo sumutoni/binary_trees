@@ -12,3 +12,6 @@ If parent already has a right-child, the new node must take its place, and the o
 
 ## Task 4
 Write a function that checks if a node is a leaf
+
+## Task 5
+Write a function that checks if a given node is a root
