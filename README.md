@@ -18,3 +18,6 @@ Write a function that checks if a given node is a root
 
 ## Task 6
 function that goes through a binary tree using pre-order traversal
+
+## Task 7
+Write a function that goes through a binary tree using in-order traversal
