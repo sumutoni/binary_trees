@@ -10,6 +10,9 @@ If parent already has a left-child, the new node must take its place, and the ol
 Write a function that inserts a node as the right-child of another node.
 If parent already has a right-child, the new node must take its place, and the old right-child must be set as the right-child of the new node.
 
+## Task 3
+Write a function that deletes an entire binary tree
+
 ## Task 4
 Write a function that checks if a node is a leaf
 
