@@ -21,3 +21,6 @@ function that goes through a binary tree using pre-order traversal
 
 ## Task 7
 Write a function that goes through a binary tree using in-order traversal
+
+## Task 8
+Write a function that goes through a binary tree using post-order traversal
