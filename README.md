@@ -15,3 +15,6 @@ Write a function that checks if a node is a leaf
 
 ## Task 5
 Write a function that checks if a given node is a root
+
+## Task 6
+function that goes through a binary tree using pre-order traversal
