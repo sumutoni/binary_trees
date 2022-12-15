@@ -8,10 +8,11 @@
  */
 binary_tree_t *sibling(binary_tree_t *node)
 {
+	if (!node->parent || !node)
+		return (NULL);
 	if (node != node->parent->left)
 		return (node->parent->left);
-	else
-		return (node->parent->right);
+	return (node->parent->right);
 }
 /**
  * binary_tree_uncle - a function that finds the uncle of a node
