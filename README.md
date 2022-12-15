@@ -39,3 +39,21 @@ Write a function that measures the size of a binary tree
 
 ## Task 12
 Write a function that counts the leaves in a binary tree
+
+## Task 13
+Write a function that counts the nodes with at least 1 child in a binary tree
+
+## Task 14
+Write a function that measures the balance factor of a binary tree
+
+## Task 15
+Write a function that checks if a binary tree is full
+
+## Task 16
+Write a function that checks if a binary tree is perfect
+
+## Task 17
+Write a function that finds the sibling of a node
+
+## Task 18
+Write a function that finds the uncle of a node
