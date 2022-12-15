@@ -28,5 +28,8 @@ Write a function that goes through a binary tree using in-order traversal
 ## Task 8
 Write a function that goes through a binary tree using post-order traversal
 
-##Task 9
+## Task 9
 Write a function that measures the height of a binary tree
+
+## Task 10
+Write a function that measures the depth of a node in a binary tree
